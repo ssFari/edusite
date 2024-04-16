@@ -1,5 +1,5 @@
 
-# FES FOLIO
+# Edusite
 
 **Demo**
 [Portfolio Project]()
@@ -11,6 +11,6 @@
 
 
 **Pencipta**:
-_design by_ [@shazzade](https://www.figma.com/@shazzade)
+
 
 
